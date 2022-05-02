@@ -64,8 +64,8 @@ uvloop = ["uvloop (>=0.15.2)"]
 
 [[package]]
 name = "blockfrost-python"
-version = "0.4.3"
-description = "The official Python SDK for Blockfrost API v0.1.36"
+version = "0.4.4"
+description = "The official Python SDK for Blockfrost API v0.1.37"
 category = "main"
 optional = false
 python-versions = ">=3.7, <4"
@@ -758,8 +758,8 @@ black = [
     {file = "black-22.3.0.tar.gz", hash = "sha256:35020b8886c022ced9282b51b5a875b6d1ab0c387b31a065b84db7c33085ca79"},
 ]
 blockfrost-python = [
-    {file = "blockfrost-python-0.4.3.tar.gz", hash = "sha256:532840a23b157fa7f2533420a8240d2f1e4d01d103344e5517898ce2a793f03b"},
-    {file = "blockfrost_python-0.4.3-py3-none-any.whl", hash = "sha256:0ef5e53ce8b08ad91fd58a0db3aa8b9545c8bb86832e99db6dbfa6862a9d60b7"},
+    {file = "blockfrost-python-0.4.4.tar.gz", hash = "sha256:256612146ec8627ff341719da937b90c2288aeb2e51d47fb4c70b35169d981ac"},
+    {file = "blockfrost_python-0.4.4-py3-none-any.whl", hash = "sha256:45ee6bb2daff2e589e3038db93462acdd10998063da477401a7002873cd62155"},
 ]
 cbor2 = [
     {file = "cbor2-5.4.2.post1-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:21a8778a92fae2fa713dfee2dc781fce64bc8fcb2e085368eff3a0b3434f83c7"},
